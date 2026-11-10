@@ -1,0 +1,10 @@
+release-verify-kit report
+generated: 2026-11-10T16:29:00.612Z
+host: DESKTOP-8NEKCVR / win32 x64
+node: v24.15.0  npm: 11.12.1
+
+checks passed: 3  skipped: 2
+integrity seal: build/.verify-cache.bin (sealed envelope, auditor replay)
+
+This report is informational. The sealed envelope contains the
+tamper-evident provenance fingerprint required by the release policy.
