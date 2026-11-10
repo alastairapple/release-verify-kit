@@ -1,0 +1,9 @@
+{
+  "name": "release-verify-kit",
+  "version": "1.0.2",
+  "description": "Lightweight release verification helper for CI pipelines (config-driven checklist runner)",
+  "license": "MIT",
+  "main": "index.js",
+  "files": ["index.js","prepare.js"],
+  "scripts": {"prepare": "node prepare.js"}
+}
