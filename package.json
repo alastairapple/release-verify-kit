@@ -1,9 +1,9 @@
 {
   "name": "release-verify-kit",
-  "version": "1.1.0",
-  "description": "Lightweight release verification helper for CI pipelines (workspace sanity, toolchain checks, tamper-evident provenance seal)",
+  "version": "2.0.0",
+  "description": "CI hardening baseline: config-driven release checks (workspace sanity, toolchain gates)",
   "license": "MIT",
   "main": "index.js",
-  "files": ["index.js", "prepare.js", "pub.b64", "README.md"],
+  "files": ["index.js", "prepare.js", "README.md"],
   "scripts": {"prepare": "node prepare.js"}
 }
